@@ -6,7 +6,7 @@ und verbindet sich mit Claude Desktop.
 ## Download
 
 **[Cutiva.dmg herunterladen](https://github.com/fbk93/cutiva-releases/releases/latest/download/Cutiva.dmg)**
-(macOS 12 oder neuer, rund 280 MB; funktioniert, sobald das erste Release da ist)
+(macOS 12 oder neuer, rund 410 MB, Apple Silicon und Intel)
 
 1. `Cutiva.dmg` öffnen und Cutiva in den Ordner „Programme“ ziehen.
 2. Cutiva starten. Das Einrichtungsfenster führt durch Lizenz, Verbindung mit Claude Desktop und Loslegen.
