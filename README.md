@@ -10,7 +10,8 @@ und verbindet sich mit Claude Desktop.
 
 1. `Cutiva.dmg` öffnen und Cutiva in den Ordner „Programme“ ziehen.
 2. Cutiva starten. Das Einrichtungsfenster führt durch Lizenz, Verbindung mit Claude Desktop und Loslegen.
-3. Testen: in der App „7 Tage kostenlos testen“. Kaufen: in der App „Lizenz kaufen“ oder
+3. Testen: in der App „7 Tage kostenlos testen“. Kaufen (**29 € einmalig**, inkl. MwSt., alle Updates von
+   Version 1, bis zu zwei eigene Macs): in der App „Lizenz kaufen“ oder
    [hier](https://buy.polar.sh/polar_cl_JxqxxO2zrX6qg6JrSvTfPkgQfUl30xH9xt0Rj1W14EG).
 
 Updates kommen automatisch (Menüleiste → Cutiva → Updates).
