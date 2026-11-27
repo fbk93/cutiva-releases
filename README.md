@@ -1,33 +1,52 @@
-# Cutiva für macOS
+# Cutiva for macOS
 
-Videos schneiden, indem du Claude sagst, was du willst. Cutiva läuft auf deinem Mac (Apple Silicon und Intel)
-und verbindet sich mit Claude Desktop.
+Edit videos by telling Claude what you want. Cutiva runs locally on your Mac and connects to Claude Desktop.
 
 ## Download
 
-**[Cutiva.dmg herunterladen](https://github.com/fbk93/cutiva-releases/releases/latest/download/Cutiva.dmg)**
-(macOS 12 oder neuer, rund 410 MB, Apple Silicon und Intel)
+**[Download Cutiva.dmg](https://github.com/fbk93/cutiva-releases/releases/latest/download/Cutiva.dmg)**
+(macOS 12 or later, Mac with Apple chip – M1 or newer)
 
-1. `Cutiva.dmg` öffnen und Cutiva in den Ordner „Programme“ ziehen.
-2. Cutiva starten. Das Einrichtungsfenster führt durch Lizenz, Verbindung mit Claude Desktop und Loslegen.
-3. Testen: in der App „7 Tage kostenlos testen“. Kaufen (**29 € einmalig**, inkl. MwSt., alle Updates von
-   Version 1, bis zu zwei eigene Macs): in der App „Lizenz kaufen“ oder
-   [hier](https://buy.polar.sh/polar_cl_JxqxxO2zrX6qg6JrSvTfPkgQfUl30xH9xt0Rj1W14EG).
+1. Open `Cutiva.dmg` and drag Cutiva into your Applications folder.
+2. First launch: right-click Cutiva and choose **Open**.
+3. The setup window walks you through your licence, connecting Claude Desktop and getting started.
 
-Updates kommen automatisch (Menüleiste → Cutiva → Updates).
+**Try it:** choose "Start 7-day free trial" in the app.
+**Buy:** one-time purchase incl. VAT, no subscription. All version 1 updates, up to two of your own Macs.
+In the app via "Buy licence", or **[here](https://getcutiva.com)**.
 
-Kauf, Zahlung und Rechnung laufen über Polar (Polar Software, Inc.) als Händler („Merchant of Record“).
+Requires Claude Desktop and your own Anthropic account.
 
-Cutiva ist proprietäre Software (© 2026 Felix Kunze, alle Rechte vorbehalten). Die Lizenzen der enthaltenen
-Open-Source-Bestandteile stehen in der App unter Menüleiste → Cutiva → „Open-Source-Lizenzen …“.
+Updates arrive automatically (menu bar → Cutiva → Updates).
 
-<!-- Nach der Rechtsprüfung ergänzen: [Lizenzbedingungen](LIZENZBEDINGUNGEN.md), [Datenschutzhinweise](DATENSCHUTZ.md) -->
+Purchase, payment and invoicing are handled by Polar (Polar Software, Inc.) as Merchant of Record.
 
-## Impressum
+Cutiva is proprietary software (© 2026 Felix Kunze, all rights reserved). Licences of the included open-source
+components are listed in the app under menu bar → Cutiva → "Open-source licences …".
+
+Website: [getcutiva.com](https://getcutiva.com) · Support: support@getcutiva.com
+
+---
+
+## Deutsch
+
+Videos schneiden, indem du Claude sagst, was du willst. Cutiva läuft lokal auf deinem Mac (Apple-Chip, M1 oder neuer)
+und verbindet sich mit Claude Desktop.
+
+**[Cutiva.dmg herunterladen](https://github.com/fbk93/cutiva-releases/releases/latest/download/Cutiva.dmg)** ·
+Einmalkauf inkl. MwSt., kein Abo, alle Updates von Version 1, bis zu zwei eigene Macs ·
+[getcutiva.com](https://getcutiva.com/de/)
+
+Beim ersten Start: Rechtsklick auf Cutiva → **Öffnen**.
+
+---
+
+## Legal notice / Impressum
 
 Felix Kunze
 Eisenbahnstraße 126
 72072 Tübingen
-Deutschland
+Germany
 
-E-Mail: felix@vertikalo.de
+Email: felix@vertikalo.de
+Full legal notice: [getcutiva.com/legal-notice.html](https://getcutiva.com/legal-notice.html)
