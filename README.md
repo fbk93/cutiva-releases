@@ -12,7 +12,7 @@ Edit videos by telling Claude what you want. Cutiva runs locally on your Mac and
 3. The setup window walks you through your licence, connecting Claude Desktop and getting started.
 
 **Try it:** choose "Try free for 7 days" in the app.
-**Buy:** one-time purchase incl. VAT, no subscription. All version 1 updates, up to two of your own Macs.
+**Buy:** one-time purchase incl. VAT, no subscription. Future updates included, up to two of your own Macs.
 In the app via "Buy a license", or **[here](https://getcutiva.com)**.
 
 Requires Claude Desktop and your own Anthropic account.
@@ -35,7 +35,7 @@ Videos schneiden, indem du Claude sagst, was du willst. Cutiva läuft lokal auf 
 und verbindet sich mit Claude Desktop.
 
 **[Cutiva.dmg herunterladen](https://github.com/fbk93/cutiva-releases/releases/latest/download/Cutiva.dmg)** ·
-Einmalkauf inkl. MwSt., kein Abo, alle Updates von Version 1, bis zu zwei eigene Macs ·
+Einmalkauf inkl. MwSt., kein Abo, zukünftige Updates inklusive, bis zu zwei eigene Macs ·
 [getcutiva.com](https://getcutiva.com/de/)
 
 Von 1.0.0 oder 1.0.1 kommend: `Cutiva.dmg` einmal von Hand laden und die App in „Programme“ ersetzen. Ab 1.0.2
@@ -50,5 +50,5 @@ Eisenbahnstraße 126
 72072 Tübingen
 Germany
 
-Email: felix@vertikalo.de
+Email: support@getcutiva.com
 Full legal notice: [getcutiva.com/legal-notice.html](https://getcutiva.com/legal-notice.html)
